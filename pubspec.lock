@@ -49,6 +49,30 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.1.1"
+  cloud_firestore:
+    dependency: "direct main"
+    description:
+      name: cloud_firestore
+      sha256: "1232370ad04c21c699d0e73b2dc2e1c3b49258f89a16f0119036fd3c6e8aa2f5"
+      url: "https://pub.dev"
+    source: hosted
+    version: "5.0.2"
+  cloud_firestore_platform_interface:
+    dependency: transitive
+    description:
+      name: cloud_firestore_platform_interface
+      sha256: cfc64ae4a48bbb0ff6730b04f2d4653043c7a9b9008a991b1f2012a534b79e26
+      url: "https://pub.dev"
+    source: hosted
+    version: "6.2.8"
+  cloud_firestore_web:
+    dependency: transitive
+    description:
+      name: cloud_firestore_web
+      sha256: "3db4e4c10feae18d80da86982781578c8e76cb6a43cf83110d8d6a62af9a952a"
+      url: "https://pub.dev"
+    source: hosted
+    version: "4.0.2"
   collection:
     dependency: transitive
     description:
@@ -166,6 +190,14 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
+  flutter_flip_clock:
+    dependency: "direct main"
+    description:
+      name: flutter_flip_clock
+      sha256: "621ae4cf1c3af6bc03f9c998fa3aa76c0d3986be4f1a42eb7027ca2f864546d2"
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.0.1"
   flutter_lints:
     dependency: "direct dev"
     description:
@@ -216,6 +248,14 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
+  gap:
+    dependency: "direct main"
+    description:
+      name: gap
+      sha256: f19387d4e32f849394758b91377f9153a1b41d79513ef7668c088c77dbc6955d
+      url: "https://pub.dev"
+    source: hosted
+    version: "3.0.1"
   http:
     dependency: transitive
     description:
@@ -232,6 +272,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "4.0.2"
+  intl:
+    dependency: "direct main"
+    description:
+      name: intl
+      sha256: d6f56758b7d3014a48af9701c085700aac781a92a87a62b1333b46d8879661cf
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.19.0"
   js:
     dependency: transitive
     description:
